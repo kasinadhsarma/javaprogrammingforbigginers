@@ -1,4 +1,8 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/kasinadhsarma/javaprogrammingforbigginers/badge/main)](https://www.codefactor.io/repository/github/kasinadhsarma/javaprogrammingforbigginers/overview/main)
+
+
 - Hi Hello Today topic is javaprogramming for bigginers 
+
 # JavaProgrammingForBigginers
 - procedure starts now
 - aim: Implement a JAVA program to display “Hell World” on the console
