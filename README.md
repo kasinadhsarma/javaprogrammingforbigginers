@@ -48,4 +48,5 @@ and display the average of its values.
 - aim: Write a java program to do sum of command line argument passed two Double numbers.
   
   ![image](https://user-images.githubusercontent.com/81065703/158069222-29ddffe6-b508-4168-951c-029f84a65819.png)
--- other aim and outputs coming soon by tommorow
+
+  - other aim and outputs coming soon by tommorow
