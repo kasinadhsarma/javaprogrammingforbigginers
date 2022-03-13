@@ -13,7 +13,8 @@
 - The code is below
  
   `Input`
-  ![image](https://user-images.githubusercontent.com/81065703/158068055-d5d60782-35c3-46cb-933f-ffb30bd886c2.png)
+  
+    ![image](https://user-images.githubusercontent.com/81065703/158068055-d5d60782-35c3-46cb-933f-ffb30bd886c2.png)
 
 - how to run the code cmd prompt the below image you can see
   `output cmdprompt`
