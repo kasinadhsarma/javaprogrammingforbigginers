@@ -91,4 +91,4 @@ and display the average of its values.
 - aim: Write java program to demonstrate the use of static keyword
  `output`
  
- ![image](https://user-images.githubusercontent.com/81065703/158106946-bbd32ed6-004c-4ec6-bb59-bd7fb5e0a5e8.png)
+  ![image](https://user-images.githubusercontent.com/81065703/158106946-bbd32ed6-004c-4ec6-bb59-bd7fb5e0a5e8.png)
