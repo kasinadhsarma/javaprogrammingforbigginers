@@ -30,27 +30,49 @@
 
 - `the  codes are  in the java-programming but you must see on second only aim and outputs only`
 - aim: Write a program to test number is prime or not
+  `output`
   
   ![image](https://user-images.githubusercontent.com/81065703/158068396-ee14641e-9809-447c-8191-2d4c046f153d.png)
 
 - aim: Write a program that creates and initializes a four integer element array. Calculate 
 and display the average of its values.
+  `output`
   
   ![image](https://user-images.githubusercontent.com/81065703/158068493-8366d371-e5fb-4172-9b06-619767e1057f.png) 
 
 - aim: write class Box
-
+  `output`
+  
   ![image](https://user-images.githubusercontent.com/81065703/158068818-02d09b02-bcbd-4ad0-857b-66ac8d567f1d.png)
 
 - aim:
   a. Define data member l, b, h 
   b. Define the method to set the data. 
   c. Define display method to display data member
-
+  `output`
+  
   ![image](https://user-images.githubusercontent.com/81065703/158068934-6b5713cc-b61f-447b-b7eb-e0a0b84448ce.png)
 
 - aim: Write a java program to do sum of command line argument passed two Double numbers.
+  `output`
   
   ![image](https://user-images.githubusercontent.com/81065703/158069222-29ddffe6-b508-4168-951c-029f84a65819.png)
 
-  - other aim and outputs coming soon by tommorow
+- aim: Define time class with hour and minute. Also define addition method to add two time objects.
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158102698-3dd73ffb-f3fb-460e-adac-2baf2e4b73f7.png)
+
+- aim: Write java Program for single level inheritance.
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158102932-51e45f83-6dab-4f03-80c2-50393eaf1deb.png)
+
+- aim: Write java program for method Overriding
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158103110-66aeb347-8d2d-4029-8f90-1833ef9b4658.png)
+
+- aim: Write java program to demonstrate use of dynamic method dispatch. 
+  `output`
+  
