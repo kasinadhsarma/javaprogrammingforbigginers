@@ -76,3 +76,19 @@ and display the average of its values.
 - aim: Write java program to demonstrate use of dynamic method dispatch. 
   `output`
   
+  ![image](https://user-images.githubusercontent.com/81065703/158106132-ab24d910-1c70-4c9a-bd96-2497c2fda1b5.png)
+
+- aim: Describe abstract class called Shape which has three subclasses say Triangle, Rectangle and Circle. Define one method area() in the abstract class and override this area() in these three subclasses to calculate area for specific class’ object.
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158106454-8440d68d-20e5-4ea6-b5d8-089c5034b314.png)
+
+- aim: Write java program to demonstrate the use of this keyword
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158106677-ee66e0d4-a236-4de0-ad88-f47992efc514.png)
+
+- aim: Write java program to demonstrate the use of static keyword
+ `output`
+ 
+ ![image](https://user-images.githubusercontent.com/81065703/158106946-bbd32ed6-004c-4ec6-bb59-bd7fb5e0a5e8.png)
