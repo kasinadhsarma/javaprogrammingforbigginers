@@ -100,7 +100,8 @@ and display the average of its values.
 
 - aim: Write java program for Interface
   `output`
- ![image](https://user-images.githubusercontent.com/81065703/158625047-5921ef0f-b8d8-4151-9e06-687d92c6fb23.png)
+ 
+  ![image](https://user-images.githubusercontent.com/81065703/158625047-5921ef0f-b8d8-4151-9e06-687d92c6fb23.png)
 
 - aim: Write a program that illustrates interface inheritance. Interface A is extended by A1 and A2. Interface A12 inherits from both A1 and A2.Each interface declares one constant and one method. Class B implements A12.Instantiate B and invoke each of its methods. Each method displays one of the constants
 
