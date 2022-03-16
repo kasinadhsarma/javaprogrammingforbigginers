@@ -93,4 +93,91 @@ and display the average of its values.
  
   ![image](https://user-images.githubusercontent.com/81065703/158106946-bbd32ed6-004c-4ec6-bb59-bd7fb5e0a5e8.png)
 
-  - anthor aims and outputs will coming soon by tommorow
+- aim: Write java program to demonstrate the use of super keyword.
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158623600-5f1cfdb9-f7a1-4055-822f-5d2ace229d5f.png)
+
+- aim: Write java program for Interface
+  `output`
+ ![image](https://user-images.githubusercontent.com/81065703/158625047-5921ef0f-b8d8-4151-9e06-687d92c6fb23.png)
+
+- aim: Write a program that illustrates interface inheritance. Interface A is extended by A1 and A2. Interface A12 inherits from both A1 and A2.Each interface declares one constant and one method. Class B implements A12.Instantiate B and invoke each of its methods. Each method displays one of the constants
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158625167-91302980-97bc-4e46-8e9d-01dd96851d1c.png)
+
+aim: Write a java program for the package.
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158626182-3d8038f8-f995-4f92-8901-c3ebb72f7185.png)
+
+aim: Write a Java program that will use try catch and Finally block.
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158628107-ebe0211f-d33b-4c9f-93df-39000de3904c.png)
+
+aim: Write a Java program for Custom Exception
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158628457-7d35a4ea-795f-4b1a-85bf-dc44a4533a06.png)
+
+aim: Write a program to demonstrate thread using Thread class and Runnable interface
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158628854-8198efe2-d91a-4515-a132-5d9e594a8371.png)
+
+aim: Write an application that executes two threads. One thread displays “A” every 1,000 milliseconds, and the other displays “B” every 3,000
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158629160-c9c234d7-b60e-4864-ac6c-fbec12baadf3.png)
+
+aim: Write a program to create two threads, one thread will print odd numbers and second thread will print even numbers between 1 to 100 numbers
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158629895-fc23cb8d-7773-4fb7-a20f-7688c829a7a8.png)
+
+aim: Write a JAVA Program to read file and display content on screen. 
+
+  `output`
+
+  ![image](https://user-images.githubusercontent.com/81065703/158632045-72086f9b-3fa8-49df-b776-5e23121361a6.png)
+
+
+aim: Write a Java program to copy content of file1.txt to file2.txt using Java file handling.
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158631637-28480baa-6449-46f3-8533-0cc28bc8c280.png)
+  
+aim: Write Program to print “Hello” on Screen when user Click on Button.
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158632384-a09ae356-b2d8-4544-a355-0a2d59bd350e.png)
+
+aim: Write Java GUI Program to Add Two Numbers Using AWT.
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158632775-0b4a8176-cb56-4efd-93ba-c1cd65b621cb.png)
+  
+aim: Write a program to create a frame using AWT. Implement mouseClicked(), mouseEntered() and mouseExited() events.
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158633175-0f422cd2-9f85-4584-b4c1-54cfb005f9cf.png)
+
+aim: write a java program using awt program to design the calculator
+
+  `output`
+  
+  ![image](https://user-images.githubusercontent.com/81065703/158633548-ecc65fe8-8153-497b-8b0e-f44c8de26f22.png)
+
